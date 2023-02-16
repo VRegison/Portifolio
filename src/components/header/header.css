@@ -1,0 +1,19 @@
+.sectionHeader {
+     min-height: 100vh;
+     background: url('../../assets/imagens/computador-e-cafe.jpg') no-repeat top;
+     background-size: cover;
+}
+
+.blackBackground {
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     min-height: 100vh;
+     background-color: rgba(0, 0, 0, 0.7);
+}
+
+.inbox {
+     width: 50%;
+     text-align: justify;
+     color: aliceblue;
+}
